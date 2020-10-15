@@ -25,4 +25,10 @@ int main() {
 	inputVector(vecA);
 	/* Input Vector 2 */
 	inputVector(vecB);
+
+	add(vecA, vecB, vecC);
+	printf("Addition of two vectors:\n");
+	print(vecC);
+
+	return 0;
 }
