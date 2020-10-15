@@ -30,6 +30,10 @@ int main() {
 	printf("Addition of two vectors:\n");
 	print(vecC);
 
+	eleProd(vecA, vecB, vecC);
+	printf("Elementwise product of two vectors:\n");
+	print(vecC);
+
 	/* Norm of two vectors*/
 	float normv = norm(vecA, vecB);
 	printf("norm of two vectors: %f\n", normv);	
