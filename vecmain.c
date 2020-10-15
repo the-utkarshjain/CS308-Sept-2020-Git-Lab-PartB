@@ -30,6 +30,10 @@ int main() {
 	printf("Addition of two vectors:\n");
 	print(vecC);
 
+	diff(vecA, vecB, vecC);
+	printf("Difference of two vectors:\n");
+	print(vecC);
+
 	eleProd(vecA, vecB, vecC);
 	printf("Elementwise product of two vectors:\n");
 	print(vecC);
