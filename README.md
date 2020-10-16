@@ -24,7 +24,7 @@ Instructor: Padmanabhan Rajan Sir
 * [B17049: add vecprod.c] 
 * [B17046: add vecnorm.c] 
 * [B17072: add vecdot.c] 
-* [B17029: add vecangle.c]
+* [B18182: add vecangle.c]
 * [B17029: add vecdiff.c]
 
 [//]: # (These are reference links)
@@ -32,5 +32,5 @@ Instructor: Padmanabhan Rajan Sir
    [B17049: add vecprod.c]: <https://github.com/the-utkarshjain/CS308-Sept-2020-Git-Lab-PartB/pull/5>
    [B17046: add vecnorm.c]: <https://github.com/the-utkarshjain/CS308-Sept-2020-Git-Lab-PartB/pull/3>
    [B17072: add vecdot.c]: <https://github.com/the-utkarshjain/CS308-Sept-2020-Git-Lab-PartB/pull/4>
-   [B17029: add vecangle.c]: <https://github.com/the-utkarshjain/CS308-Sept-2020-Git-Lab-PartB/commit/6dca6918162d557ad9083689b5a495e2d5da281c>
+   [B18182: add vecangle.c]: <https://github.com/the-utkarshjain/CS308-Sept-2020-Git-Lab-PartB/pull/7>
    [B17029: add vecdiff.c]: <https://github.com/the-utkarshjain/CS308-Sept-2020-Git-Lab-PartB/pull/6>
