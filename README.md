@@ -10,6 +10,7 @@ Instructor: Padmanabhan Rajan Sir
 |B| Navya Varkantham | B17049  |
 |C| Jhalak Choudhary    | B17046  |
 |D|  Abhishek Bhardwaj | B17072  |
+|E|  Om Pandey | B18182  |
 
 # How to run the program?
 1. Clone the Repository using "git clone https://github.com/the-utkarshjain/CS308-Sept-2020-Git-Lab-PartB.git" . 
