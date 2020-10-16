@@ -12,8 +12,7 @@ vecadd: vecadd.c
 vecnorm: vecnorm.c
 	gcc -Wall -c vecnorm.c 
 
-vecangle: vecangle.c
-	gcc -Wall -c vecangle.c
+
 
 vecdiff: vecdiff.c
 	gcc -Wall -c vecdiff.c
